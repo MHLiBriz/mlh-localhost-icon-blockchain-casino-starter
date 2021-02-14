@@ -1,8 +1,8 @@
 {
   "uri": "https://bicon.net.solidwallet.io/api/v3",
   "nid": "0x3",
-  "keyStore": "keystores/<YOUR_WALLET_KEYSTORE_FILE>",
-  "from": "<YOUR_WALLET_ADDRESS>",
+  "keyStore": "keystores/mlh_wallet.json",
+  "from": "hxf61baedbe3bac32da92ceed6ba94c51dbc39cd6f",
   "to": "cx0000000000000000000000000000000000000000",
   "stepLimit": "0x50000000",
   "deploy": {
